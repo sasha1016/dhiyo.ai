@@ -9,7 +9,6 @@ class Layout extends StatelessWidget {
       body: Body(), 
       bottomNavigationBar: Footer(),
       backgroundColor: new Color(0xff181930)
-      //backgroundColor: Colors.white
     ) ;
   }
 
